@@ -2,6 +2,9 @@
 This is a simple MAC changer script written in Python 3 for Unix Systems.\
 For MacOS systems it will ran only if you have acquired BASH shell.
 
+# REQUIREMENTS
+* Python 3
+
 # DOWNLOAD:
 You can just git clone the repo in your terminal by typing:
 * git clone https://github.com/ps3m4/Simple-MAC-Changer.git
